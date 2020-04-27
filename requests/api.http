@@ -1,0 +1,6 @@
+POST http://localhost:5000/api/url/shorten
+Content-Type: application/json
+
+{
+    "longUrl": "https://www.amazon.in/b/ref=gwdb_bmc_3_OP8series?_encoding=UTF8&node=21152978031&pf_rd_s=merchandised-search-5&pf_rd_t=Gateway&pf_rd_i=mobile&pf_rd_m=A1VBAL9TL5WCBF&pf_rd_r=J8YFS32SC1ZCATDP6V0K&pf_rd_p=7a676dba-5f40-4839-ae28-1d2988dd7c6e"
+}
